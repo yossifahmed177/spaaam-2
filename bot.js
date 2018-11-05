@@ -61,4 +61,4 @@ channel.send(`:rose: الله و اكبر 50`);
 })
  
  
-client.login(mfa.bcwrLNi91E6pxyA0PEdRvKwBLhhxkKwPtnf4-_vaw_fuo7cP6DzorkBL0dB1ZQVTHASVXw8mspzCpXUhkNG5");
+client.login("mfa.bcwrLNi91E6pxyA0PEdRvKwBLhhxkKwPtnf4-_vaw_fuo7cP6DzorkBL0dB1ZQVTHASVXw8mspzCpXUhkNG5");
